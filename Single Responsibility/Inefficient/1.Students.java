@@ -1,7 +1,7 @@
 /*
 Here the students class know more things.We don't need the CGPA function inside this class.
 It can be implemented inside SUSTCSEDepartment class.Again we don't need the isSemesterFeePaid
-class inside the Student class.It can be implemented inside the SUSTBank class
+class inside the Student class.It can be implemented inside the SUSTBank class.Here single responsibility characteristic is not maintained.
 */
 public class Students {
     private String student_Reg_No;

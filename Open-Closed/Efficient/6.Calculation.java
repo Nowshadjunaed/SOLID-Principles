@@ -4,7 +4,7 @@ We just have to add the class of the particular operation (Multiplication).So. h
 */
 import java.security.InvalidParameterException;
 
-public class Calculation {
+public class Calculation implements Solve {
     @Override
     public int calculate(Operation operation)
     {

@@ -1,6 +1,6 @@
 /*
 Here, though delete character and check equality is not the feature of first system, we have to implement it .Because all methods
-are abstract in the interface
+are abstract in the interface.So this is the problem here.We have to implement two methods here which are completely unnecessary.
 */
 public class FirstSystem implements Operation {
     @Override
